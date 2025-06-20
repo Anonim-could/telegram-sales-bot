@@ -1,6 +1,6 @@
-import random
-from telegram import Update
-from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
+# telegram-sales-bot
+python-telegram-bot
+python-dotenv
 
 TOKEN = "8161800818:AAG025CULWACfuEz6jApsA5l_8bVgbu6mO8"
 
